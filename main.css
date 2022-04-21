@@ -19,13 +19,13 @@
    border-radius: 20px;
    color: #FFFFFF;
    font-family: Verdana;
-   font-size: 40px;
-   font-weight: 500;
-   padding: 40px;
+   font-size: 15px;
+   font-weight: 300;
+   padding: 10px;
    -webkit-box-shadow: 1px 1px 20px 0 #000000;
    -moz-box-shadow: 1px 1px 20px 0 #000000;
    box-shadow: 1px 1px 20px 0 #000000;
-   text-shadow: 1px 1px 20px #000000;
+   text-shadow: 1px 1px 20px #0059A0;
    border: solid #337FED 6px;
    text-decoration: none;
    display: inline-block;
@@ -45,4 +45,4 @@
    -moz-border-radius: 20px;
    border-radius: 20px;
    text-decoration: none;
-}               
+}
