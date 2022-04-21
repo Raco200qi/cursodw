@@ -8,25 +8,28 @@
   }
 
 .curso {
-   background: #3D94F6;
-   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
-   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
-   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
-   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
-   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   background: #3DDAF6;
+   background-image: -webkit-linear-gradient(top, #3DDAF6, #16817D);
+   background-image: -moz-linear-gradient(top, #3DDAF6, #16817D);
+   background-image: -ms-linear-gradient(top, #3DDAF6, #16817D);
+   background-image: -o-linear-gradient(top, #3DDAF6, #16817D);
+   background-image: -webkit-gradient(to bottom, #3DDAF6, #16817D);
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
    border-radius: 20px;
+   height: 14px;
+   line-height: 14px;
    color: #FFFFFF;
    font-family: Verdana;
-   font-size: 15px;
-   font-weight: 300;
-   padding: 10px;
-   -webkit-box-shadow: 1px 1px 20px 0 #000000;
-   -moz-box-shadow: 1px 1px 20px 0 #000000;
-   box-shadow: 1px 1px 20px 0 #000000;
-   text-shadow: 1px 1px 20px #0059A0;
-   border: solid #337FED 6px;
+   width: 185px;
+   font-size: 20px;
+   font-weight: 900;
+   padding: 12px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
    text-decoration: none;
    display: inline-block;
    cursor: pointer;
@@ -34,13 +37,13 @@
 }
 
 .curso:hover {
-   border: solid #337FED 1px;
-   background: #1E62D0;
-   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
-   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
-   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
-   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
-   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   border: solid #64ED33 1px;
+   background: #168142;
+   background-image: -webkit-linear-gradient(top, #168142, #3DF6B2);
+   background-image: -moz-linear-gradient(top, #168142, #3DF6B2);
+   background-image: -ms-linear-gradient(top, #168142, #3DF6B2);
+   background-image: -o-linear-gradient(top, #168142, #3DF6B2);
+   background-image: -webkit-gradient(to bottom, #168142, #3DF6B2);
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
    border-radius: 20px;
